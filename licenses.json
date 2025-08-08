@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "hardware_id": "29ccdd86853f261426ce0c0d4d65b93abc3df3cd9d3a7fff2abc8dfeee7dba9d",
+    "client_name": "Vitor Gabriel",
+    "client_email": "vitor@email.com",
+    "created_at": "2025-08-08T19:24:42.382Z",
+    "expiration_date": "2026-08-08T19:24:42.383Z",
+    "active": true,
+    "notes": "Licença anual - Desenvolvedor"
+  }
+]
