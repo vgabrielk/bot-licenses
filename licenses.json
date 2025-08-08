@@ -8,5 +8,15 @@
     "expiration_date": "2026-08-08T19:24:42.383Z",
     "active": true,
     "notes": "Licença anual - Desenvolvedor"
+  },
+   {
+    "id": 2,
+    "hardware_id": "6e47376493662bb8c14b4801be87253799df0cd7ba49de0aebc6f95b95f774a5",
+    "client_name": "Clarissa",
+    "client_email": "clari@email.com",
+    "created_at": "2025-08-08T19:24:42.382Z",
+    "expiration_date": "2026-08-08T19:24:42.383Z",
+    "active": true,
+    "notes": "Licença anual - Desenvolvedor"
   }
 ]
